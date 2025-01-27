@@ -56,7 +56,7 @@ Atualmente, estou trabalhando na implementação da biblioteca:
    ```bash
    git clone https://github.com/bonbj/ionic.git
 
-   cd projeto-ionic
+   cd native/angular
 
    npm install
 
